@@ -1,6 +1,1 @@
-#!/bin/bash <<<<<<< HEAD
-echo ALX School
-=======
-#!/bin/bash
-echo ALX School
->>>>>>> main
+ALX School
